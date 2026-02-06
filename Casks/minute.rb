@@ -1,6 +1,6 @@
 cask "minute" do
-  version "0.13.0"
-  sha256 "aa5653663b26903fc9377fcf340f1df841cfbb4888ed347688bc9e1a9b595fea"
+  version "0.13.2"
+  sha256 "9f485c9693ae67d08fc68376a73c1b1b0c9e5440cb7785f607c6ff940e3ef89e"
 
   url "https://github.com/roblibob/Minute/releases/download/v#{version}/Minute-#{version}.dmg"
   name "Minute"
