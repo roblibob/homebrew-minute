@@ -8,7 +8,7 @@ cask "minute" do
   homepage "https://github.com/roblibob/Minute"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Minute.app"
 
